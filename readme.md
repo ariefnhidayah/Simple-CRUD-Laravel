@@ -7,10 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-##Simple CRUD App With Laravel
+<h1>Simple CRUD App With Laravel</h1>
+
 Ini adalah aplikasi CRUD sederhana menggunakan framework laravel versi 5.8. Untuk menggunakannya bisa dilihat cara-caranya dibawah
 
-##Cara menginstall 
+<h1>Cara menginstall</h1>
+
 - Klon repositori git ke file lokal di komputer
 - Lalu buka CMD dan arahkan ke direktori lokal dikomputer
 - Lalu ketikkan composer install, tapi sebelum itu harus menginstall composer terlebih dahulu, cari aja digoogle
