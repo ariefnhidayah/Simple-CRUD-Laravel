@@ -14,6 +14,7 @@ Ini adalah aplikasi CRUD sederhana menggunakan framework laravel versi 5.8. Untu
 <h1>Cara menginstall</h1>
 
 - Klon repositori git ke file lokal di komputer
+- Buat database dengan nama coba_laravel
 - Lalu buka CMD dan arahkan ke direktori lokal dikomputer
 - Lalu ketikkan composer install, tapi sebelum itu harus menginstall composer terlebih dahulu, cari aja digoogle
 - Lalu copy paste file .env.example, lakukan konfigurasi .env
